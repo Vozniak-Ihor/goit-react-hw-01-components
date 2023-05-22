@@ -1,0 +1,16 @@
+.item{}
+.status{
+    display: block;
+    height: 13px;width: 13px;
+    background-color: grey;
+    border-radius: 50%;
+}
+.true{
+    background-color: green;
+}
+.false{
+    background-color: red;
+}
+.name{
+
+}
